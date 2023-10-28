@@ -116,7 +116,7 @@ module.exports = {
   email: process.env.Email_Id || "Not Available",
   warns: process.env.Warns_Limits || 3,
   mongoUrl: process.env.MongoDB || "mongodb+srv://debopi8523:aaaa1111aaaa@cluster0.9s0bfxq.mongodb.net/?retryWrites=true&w=majority",
-  welcome: process.env.Welcome_Msg || '*@$user* joined this group today as $membersth member.\n\n_Der Hui Aane Me Lekin Shukra Hai Fir Bhi Aaye To_',
+  welcome: process.env.Welcome_Msg || '*@$user* joined this group today as $membersth member.\n\n_Der Hui Aane Me Lekin Shukra Hai Fir Bhi Aaye To🌚🌝_',
   left: process.env.Left_Msg || 'Ex-member *@$user* is no longer available in this group chat.\n\n_Khatam Tata Bye Bye Goodbye Gya 🗿🚬_',
   promote: process.env.Promote_Msg || '*@$user* has been promoted as an admin in this group.\n\n_MUBARAK HO AAP ADMIN BAN CHUKE HAI🥳_',
   demote: process.env.Demote_Msg || '*@$user* has been demoted to a member in this group.\n\n_HONI KO KOUN TAAL SAKTA HAI YAAR🥲_',
