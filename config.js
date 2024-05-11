@@ -63,14 +63,14 @@ global.message = {
 },
 
 module.exports = {
-  botname: process.env.BotName || "∆~•Ꮎɱι-Ᏸσт•~∆", 
-  author: process.env.Author || "SILENT.XARMONY",
-  packname: process.env.PackName || "∆~•Ꮎᴍɪ•~∆",
-  socialLink: process.env.Web || "https://github.com/PikaBotz",
-  footer: process.env.Footer || "© ∆~•Ꮎɱι-Ᏸσт•~∆",
-  prefa: process.env.Prefix || ['-'],
+  botname: process.env.BotName || "▪️▫️▪️ѕιℓєηт  χαямσηу🦚", 
+  author: process.env.Author || "▪️▫️▪️ѕιℓєηт  χαямσηу🦚",
+  packname: process.env.PackName || "▪️▫️▪️ѕιℓєηт  χαямσηу🦚",
+  socialLink: process.env.Web || "https://github.com/Raone01",
+  footer: process.env.Footer || "©▪️▫️▪️ѕιℓєηт  χαямσηу🦚",
+  prefa: process.env.Prefix || [','],
   themeemoji: process.env.ThemeEmoji || "🎐",
-  ownername: process.env.Owner_Name || "∆~•Sᴀɴᴀᴛᴀɴɪ Aᴅɪᴛʏᴀ•~∆",
+  ownername: process.env.Owner_Name || "▪️▫️▪️ѕιℓєηт  χαямσηу🦚",
   ownernumber: process.env.Owner_Number || "919634945456",
   instagramId: process.env.Insta || "SILENT.XARMONY",
   warns: process.env.Warns_Limits || 3,
@@ -105,14 +105,14 @@ module.exports = {
 
 
 // Ignore them 👇🏻
-global.botname = process.env.BotName || "∆~•Ꮎɱι-Ᏸσт•~∆" 
-global.author = process.env.Author || "@SILENT.XARMONY" 
-global.packname = process.env.PackName || "∆~•Ꮎᴍɪ•~∆" 
-global.myweb = process.env.Web || "https://github.com/PikaBotz" 
-global.footer = process.env.Footer || "© ∆~•Ꮎɱι-Ᏸσт•~∆" 
-global.prefa = process.env.Prefix || ['.'] 
+global.botname = process.env.BotName || "▪️▫️▪️ѕιℓєηт  χαямσηу🦚" 
+global.author = process.env.Author || "▪️▫️▪️ѕιℓєηт  χαямσηу🦚" 
+global.packname = process.env.PackName || "▪️▫️▪️ѕιℓєηт  χαямσηу🦚" 
+global.myweb = process.env.Web || "https://github.com/Raone01" 
+global.footer = process.env.Footer || "©▪️▫️▪️ѕιℓєηт  χαямσηу🦚" 
+global.prefa = process.env.Prefix || [','] 
 global.themeemoji = process.env.ThemeEmoji || "🎐" 
-global.ownername = process.env.Owner_Name || "∆~•Sᴀɴᴀᴛᴀɴɪ Aᴅɪᴛʏᴀ•~∆" 
+global.ownername = process.env.Owner_Name || "▪️▫️▪️ѕιℓєηт  χαямσηу🦚" 
 global.ownernumber = process.env.Owner_Number || "919634945456" 
 global.adress = process.env.Continent || "Asia, India, Uttar Pradesh" 
 global.timezone = process.env.TimeZone || "Asia/Kolkata" 
